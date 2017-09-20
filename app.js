@@ -1,3 +1,3 @@
-var foo = 456;
+var foo = 1456;
 
 console.log(foo);
